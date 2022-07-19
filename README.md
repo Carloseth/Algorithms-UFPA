@@ -1,2 +1,2 @@
 # Algorithms-UFPA 
-A repo about algorithms using the Hidaka's list of exercises.
+A repo about algorithms that i solved.

@@ -1,2 +1,2 @@
 # Algorithms-UFPA 
-A repo about algorithms that i solved.
+Repositorio para resolução de exercicios de algoritmos. Realizado a partir da lista do meu professor Renato Hidaka.
